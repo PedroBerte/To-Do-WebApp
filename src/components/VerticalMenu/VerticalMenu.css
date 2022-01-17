@@ -1,0 +1,41 @@
+.vertical-menu-body {
+  min-width: 300px;
+  max-width: 300px;
+  min-height: 100vh;
+  background-color: #1a202e;
+}
+.div-title-vertical-menu {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 2rem 0 2rem 0;
+}
+.title-vertical-menu {
+  margin-left: 1rem;
+  color: white;
+  font-size: 19px;
+}
+.line-space {
+  background-color: white;
+  width: 85%;
+  height: 1px;
+  margin: 0 auto 0 auto;
+}
+.img-arrow {
+  margin-left: 3rem;
+}
+
+@media only screen and (max-width: 700px) {
+  .vertical-menu-body {
+    min-width: 80px;
+  }
+  .title-vertical-menu {
+    display: none;
+  }
+  .img-arrow {
+    display: none;
+  }
+  .line-space {
+    display: none;
+  }
+}

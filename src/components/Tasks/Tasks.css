@@ -1,0 +1,30 @@
+.text {
+  margin: 0.5rem 0 0.5rem 0;
+  font-weight: normal;
+  font-size: 18px;
+  text-rendering: optimizeLegibility !important;
+}
+.icon {
+  margin-right: 0.7rem;
+}
+.div-task {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 90%;
+  height: 60px;
+  background-color: white;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  margin-bottom: 20px;
+  transition: all 0.4s;
+  overflow: hidden;
+}
+.div-flex {
+  display: flex;
+}
+.img-correct-icon {
+  margin: 0 3rem 0 1rem;
+}
+.img-trash-icon {
+  margin-right: 1rem;
+}

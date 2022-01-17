@@ -1,0 +1,42 @@
+.add-input {
+  width: 0px;
+  transition: all 0.8s;
+  border: none;
+}
+.form-horizontal {
+  float: right;
+  margin-right: 4.5rem;
+  display: flex;
+  align-items: center;
+}
+.add-input {
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  margin-right: 1rem;
+  height: 40px;
+  border-radius: 10px;
+  outline: none;
+  overflow: hidden;
+  margin-left: 50px;
+  padding-left: 10px;
+}
+
+@keyframes rotation {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(180deg);
+  }
+}
+
+@keyframes backRotation {
+  from {
+    transform: rotate(180deg);
+  }
+  to {
+    transform: rotate(0deg);
+  }
+}
+
+@media only screen and (max-width: 700px) {
+}
