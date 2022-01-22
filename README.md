@@ -11,7 +11,7 @@
 
 ## 💻 Projeto
 
-Utilizei esse projeto para me aprofundar em ReactJS e entender o funcionamento e manipulação de arrays, além de aprender a usar uma FakeAPI utilizando o JSON server. Trata-se de um WebApp para organizar suas tarefas diárias, o App se encontra na primeira versão.
+Utilizei esse projeto para me aprofundar em ReactJS e entender o funcionamento e manipulação de arrays. Trata-se de um WebApp para organizar suas tarefas diárias, o App se encontra na primeira versão.
 
 ## 🚀 Futuras Atualizações
 <ul>
@@ -23,8 +23,7 @@ Utilizei esse projeto para me aprofundar em ReactJS e entender o funcionamento e
 
 <ul>
   <li>ReactJS</li>
-  <li>FakeAPI</li>
-  <li>JSON server</li>
+  <li>Figma</li>
 </ul>
 
 👉 Figma layout design by <a href="https://www.figma.com/@PedroBerte">Pedro Bertelli</a>: <a href="https://www.figma.com/community/file/1035611140250220707/To-Do-WebApp">To-Do WebApp v1.0</a>
