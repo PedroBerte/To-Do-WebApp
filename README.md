@@ -4,7 +4,7 @@
 
 <h1 align="center">To-Do WebApp</h1>
 
-<h3 align="center">To-Do WebApp with ReactJS and FakeAPI</h3>
+<h3 align="center">To-Do WebApp with ReactJS</h3>
 <div style="text-align: center" align="center">
 <img src="https://i.imgur.com/M17CHAy.png" align="center" />
 </div>
